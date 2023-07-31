@@ -15,6 +15,6 @@ class Program
     {
         MyClass myObj = new MyClass();
        
-        Console.WriteLine("Method cannot be accessed directly.");
+        Console.WriteLine("Method can't be accessed directly.");
     }
 }
